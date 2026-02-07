@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "yvett-plugins",
+  "version": "1.0.0",
+  "description": "Personal collection of Claude Code plugins",
+  "owner": {
+    "name": "yvett"
+  },
+  "plugins": [
+    {
+      "name": "vertex-mcp-debugger",
+      "description": "Debug and troubleshoot Google Vertex AI, Gemini API, and MCP server integration issues",
+      "version": "1.0.0",
+      "source": "./plugins/vertex-mcp-debugger",
+      "category": "development"
+    }
+  ]
+}

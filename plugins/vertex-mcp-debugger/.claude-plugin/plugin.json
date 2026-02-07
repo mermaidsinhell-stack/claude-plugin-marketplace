@@ -1,0 +1,8 @@
+{
+  "name": "vertex-mcp-debugger",
+  "description": "Debug and troubleshoot Google Vertex AI, Gemini API, and MCP server integration issues",
+  "author": {
+    "name": "yvett"
+  },
+  "keywords": ["vertex-ai", "gemini", "google-cloud", "mcp", "debugging", "vuda"]
+}

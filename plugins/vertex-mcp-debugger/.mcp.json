@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vuda": {
+      "command": "npx",
+      "args": ["-y", "visual-ui-debug-agent-mcp"]
+    }
+  }
+}
