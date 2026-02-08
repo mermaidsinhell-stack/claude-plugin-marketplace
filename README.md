@@ -5,7 +5,7 @@ Personal collection of Claude Code plugins.
 ## Installation
 
 ```bash
-claude plugin add github:YOUR_USERNAME/claude-plugin-marketplace
+claude plugin add github:mermaidsinhell-stack/claude-plugin-marketplace
 ```
 
 ## Available Plugins
@@ -24,7 +24,7 @@ Debug and troubleshoot Google Vertex AI, Gemini API, and MCP server integration 
 
 **Install:**
 ```bash
-claude plugin install vertex-mcp-debugger@YOUR_USERNAME/claude-plugin-marketplace
+claude plugin install vertex-mcp-debugger@mermaidsinhell-stack/claude-plugin-marketplace
 ```
 
 ## Adding New Plugins
