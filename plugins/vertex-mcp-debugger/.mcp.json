@@ -2,7 +2,7 @@
   "mcpServers": {
     "vuda": {
       "command": "npx",
-      "args": ["-y", "visual-ui-debug-agent-mcp-win32-x64"]
+      "args": ["-y", "visual-ui-debug-agent-mcp"]
     }
   }
 }
